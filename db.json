@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullname": "Angel",
+      "pic": "https://randomuser.me/api/portraits/women/21.jpg",
+      "gender": "women",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non odio quo!",
+      "friends": true,
+      "liked": true,
+      "comments": [
+        {
+          "user": "Angélina Jolie",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Carles Puyol",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Cristiano ronaldo",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Lionet Messi",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "fullname": "Steve",
+      "pic": "https://randomuser.me/api/portraits/men/21.jpg",
+      "gender": "men",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non odio quo!",
+      "friends": true,
+      "liked": false,
+      "comments": [
+        {
+          "user": "Yoann roney",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        }
+        
+      ]
+    },
+    {
+      "id": "3",
+      "fullname": "Vendredi",
+      "pic": "https://randomuser.me/api/portraits/men/23.jpg",
+      "gender": "men",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non odio quo!",
+      "friends": true,
+      "liked": false,
+      "comments": [
+        {
+          "user": "Vincent lepetit",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Vincent crusoé ",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "fullname": "Samia",
+      "pic": "https://randomuser.me/api/portraits/women/25.jpg",
+      "gender": "women",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non odio quo!",
+      "friends": true,
+      "liked": false,
+      "comments": [
+        {
+          "user": "John Doe",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Jess Doe",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        },
+        {
+          "user": "Alain dubois",
+          "comment": "Lorem ipsum dolor sit amet consectetur adipisicing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+#women {
+    border: 2px solid rgb(255, 156, 172);
+    max-width: 240px;
+}
+
+#men {
+    border: 2px solid rgb(70, 70, 255);
+    max-width: 240px;
+}
+
+.friend {
+    color :red;
+}
